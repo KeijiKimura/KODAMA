@@ -1,18 +1,30 @@
 fileFormatVersion: 2
-guid: 672eef9e25533404fad1aacde975fe02
-timeCreated: 1458120713
+guid: b6b4100a2f90dcd4fb4d782584de45ab
+timeCreated: 1459200660
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: pCylinder3
-    100002: //RootNode
-    400000: pCylinder3
-    400002: //RootNode
-    2300000: pCylinder3
-    3300000: pCylinder3
-    4300000: pCylinder3
-    6400000: pCylinder3
+    100000: //RootNode
+    100002: lantern:pSphere1
+    100004: pCylinder1
+    100006: pCylinder2
+    400000: //RootNode
+    400002: lantern:pSphere1
+    400004: pCylinder1
+    400006: pCylinder2
+    2300000: lantern:pSphere1
+    2300002: pCylinder1
+    2300004: pCylinder2
+    3300000: lantern:pSphere1
+    3300002: pCylinder1
+    3300004: pCylinder2
+    4300000: lantern:pSphere1
+    4300002: pCylinder1
+    4300004: pCylinder2
+    6400000: lantern:pSphere1
+    6400002: pCylinder1
+    6400004: pCylinder2
   materials:
     importMaterials: 1
     materialName: 0

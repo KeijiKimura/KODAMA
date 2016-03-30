@@ -67,6 +67,18 @@ ModelImporter:
     4300018: pCylinder7
     4300020: pCylinder8
     4300022: pCylinder9
+    6400000: pCylinder1
+    6400002: pCylinder10
+    6400004: pCylinder11
+    6400006: pCylinder12
+    6400008: pCylinder2
+    6400010: pCylinder3
+    6400012: pCylinder4
+    6400014: pCylinder5
+    6400016: pCylinder6
+    6400018: pCylinder7
+    6400020: pCylinder8
+    6400022: pCylinder9
   materials:
     importMaterials: 1
     materialName: 0
@@ -93,7 +105,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
