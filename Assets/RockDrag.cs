@@ -32,6 +32,7 @@ public class RockDrag : MonoBehaviour
         WiltedSeeds.SetActive(false);
         Seeds.SetActive(true);
         rockCount++;
+        print("ayyyy");
            
 
     }

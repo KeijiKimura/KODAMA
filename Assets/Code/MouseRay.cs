@@ -13,7 +13,7 @@ public class MouseRay : MonoBehaviour {
     // Update is called once per frame
     void Update() {
 
-        //Cursor.visible = false;
+        Cursor.visible = false;
 
         Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
         RaycastHit rayHitInfo = new RaycastHit();
@@ -24,7 +24,7 @@ public class MouseRay : MonoBehaviour {
         {
             Debug.Log("Mouse Hit");
             Debug.DrawRay(ray.origin, ray.direction * 1000f, Color.red);
-            sphere.position = rayHitInfo.point;
+            sphere.position = Vector3.Lerp(sphere.position, rayHitInfo.point, Time.deltaTime*15);
 
         }
 	
