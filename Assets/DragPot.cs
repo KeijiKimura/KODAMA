@@ -1,12 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Drag : MonoBehaviour
+public class DragPot : MonoBehaviour
 {
 
     //public GameObject Kodama;
- 
-    float distance = 10;
+
+    float distance = 20;
 
     // Use this for initialization
     void OnMouseDrag()
