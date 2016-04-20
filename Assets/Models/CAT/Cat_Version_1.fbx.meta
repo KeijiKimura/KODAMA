@@ -1,0 +1,618 @@
+fileFormatVersion: 2
+guid: 8ddcc35a91059394fa7f17d11c3d6256
+timeCreated: 1460682825
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Belly_Joint
+    100002: Body_CTRL
+    100004: //RootNode
+    100006: Face_Joint
+    100008: HEAD_IK
+    100010: Head_Joint
+    100012: L_B_LEG_CTRL
+    100014: L_Back_Clavicle
+    100016: L_Back_Joint
+    100018: L_Back_Knee
+    100020: L_Back_Leg
+    100022: L_Back_Leg_IK
+    100024: L_F_LEG_CTRL
+    100026: L_Front_Clavicle
+    100028: L_Front_Joint
+    100030: L_Front_Knee
+    100032: L_Front_Leg
+    100034: L_Front_Leg_IK
+    100036: Neck_Base
+    100038: NECK_CTRL
+    100040: Neck_Joint
+    100042: nurbsCircle1
+    100044: nurbsCircle3
+    100046: nurbsCircle4
+    100048: polySurface2
+    100050: polySurface6
+    100052: R_B_JOINT
+    100054: R_B_LEG_CTRL
+    100056: R_B_LEG_IK
+    100058: R_B_LEG_JOINT
+    100060: R_B_PAW
+    100062: R_B_VECTOR
+    100064: R_Back_Clavicle
+    100066: R_F_LEG_CTRL
+    100068: R_Front_Clavicle
+    100070: R_Front_Joint
+    100072: R_Front_Knee
+    100074: R_Front_Leg
+    100076: R_Front_Leg_IK
+    100078: ROOT_CTRL
+    100080: Root_Joint
+    100082: Spine_1
+    100084: Spine_2
+    100086: Spine_3
+    100088: Spine_4
+    100090: Spine_5
+    100092: TAIL_BASE_CTRL
+    100094: Tail_Base_Joint
+    100096: Tail_Joint_1
+    100098: Tail_Joint_2
+    100100: Tail_Joint_3
+    100102: Tail_Joint_4
+    100104: TAIL_MIDDLE_CTRL
+    100106: Tail_Middle_IK
+    100108: Tail_Tip
+    100110: TAIL_TIP_CTRL
+    100112: Tail_Tip_IK
+    400000: Belly_Joint
+    400002: Body_CTRL
+    400004: //RootNode
+    400006: Face_Joint
+    400008: HEAD_IK
+    400010: Head_Joint
+    400012: L_B_LEG_CTRL
+    400014: L_Back_Clavicle
+    400016: L_Back_Joint
+    400018: L_Back_Knee
+    400020: L_Back_Leg
+    400022: L_Back_Leg_IK
+    400024: L_F_LEG_CTRL
+    400026: L_Front_Clavicle
+    400028: L_Front_Joint
+    400030: L_Front_Knee
+    400032: L_Front_Leg
+    400034: L_Front_Leg_IK
+    400036: Neck_Base
+    400038: NECK_CTRL
+    400040: Neck_Joint
+    400042: nurbsCircle1
+    400044: nurbsCircle3
+    400046: nurbsCircle4
+    400048: polySurface2
+    400050: polySurface6
+    400052: R_B_JOINT
+    400054: R_B_LEG_CTRL
+    400056: R_B_LEG_IK
+    400058: R_B_LEG_JOINT
+    400060: R_B_PAW
+    400062: R_B_VECTOR
+    400064: R_Back_Clavicle
+    400066: R_F_LEG_CTRL
+    400068: R_Front_Clavicle
+    400070: R_Front_Joint
+    400072: R_Front_Knee
+    400074: R_Front_Leg
+    400076: R_Front_Leg_IK
+    400078: ROOT_CTRL
+    400080: Root_Joint
+    400082: Spine_1
+    400084: Spine_2
+    400086: Spine_3
+    400088: Spine_4
+    400090: Spine_5
+    400092: TAIL_BASE_CTRL
+    400094: Tail_Base_Joint
+    400096: Tail_Joint_1
+    400098: Tail_Joint_2
+    400100: Tail_Joint_3
+    400102: Tail_Joint_4
+    400104: TAIL_MIDDLE_CTRL
+    400106: Tail_Middle_IK
+    400108: Tail_Tip
+    400110: TAIL_TIP_CTRL
+    400112: Tail_Tip_IK
+    4300000: polySurface6
+    7400000: GoSleep
+    7400002: Sleeping
+    7400004: Walking
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface6
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: GoSleep
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body_CTRL
+        weight: 1
+      - path: Body_CTRL/L_B_LEG_CTRL
+        weight: 1
+      - path: Body_CTRL/L_B_LEG_CTRL/L_Back_Leg_IK
+        weight: 1
+      - path: Body_CTRL/L_B_LEG_CTRL/nurbsCircle4
+        weight: 1
+      - path: Body_CTRL/L_F_LEG_CTRL
+        weight: 1
+      - path: Body_CTRL/L_F_LEG_CTRL/L_Front_Leg_IK
+        weight: 1
+      - path: Body_CTRL/L_F_LEG_CTRL/nurbsCircle1
+        weight: 1
+      - path: Body_CTRL/R_B_LEG_CTRL
+        weight: 1
+      - path: Body_CTRL/R_B_LEG_CTRL/R_B_LEG_IK
+        weight: 1
+      - path: Body_CTRL/R_B_LEG_CTRL/R_B_VECTOR
+        weight: 1
+      - path: Body_CTRL/R_F_LEG_CTRL
+        weight: 1
+      - path: Body_CTRL/R_F_LEG_CTRL/nurbsCircle3
+        weight: 1
+      - path: Body_CTRL/R_F_LEG_CTRL/R_Front_Leg_IK
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/NECK_CTRL
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/NECK_CTRL/HEAD_IK
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/L_Back_Clavicle
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/L_Back_Clavicle/L_Back_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/L_Back_Clavicle/L_Back_Joint/L_Back_Knee
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/L_Back_Clavicle/L_Back_Joint/L_Back_Knee/L_Back_Leg
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/R_Back_Clavicle
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/R_Back_Clavicle/R_B_LEG_JOINT
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/R_Back_Clavicle/R_B_LEG_JOINT/R_B_JOINT
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/R_Back_Clavicle/R_B_LEG_JOINT/R_B_JOINT/R_B_PAW
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Belly_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/L_Front_Clavicle
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/L_Front_Clavicle/L_Front_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/L_Front_Clavicle/L_Front_Joint/L_Front_Knee
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/L_Front_Clavicle/L_Front_Joint/L_Front_Knee/L_Front_Leg
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/R_Front_Clavicle
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/R_Front_Clavicle/R_Front_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/R_Front_Clavicle/R_Front_Joint/R_Front_Knee
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/R_Front_Clavicle/R_Front_Joint/R_Front_Knee/R_Front_Leg
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5/Neck_Base
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5/Neck_Base/Neck_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5/Neck_Base/Neck_Joint/Face_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5/Neck_Base/Neck_Joint/Head_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Tail_Joint_1
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Tail_Joint_1/Tail_Joint_2
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Tail_Joint_1/Tail_Joint_2/Tail_Joint_3
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Tail_Joint_1/Tail_Joint_2/Tail_Joint_3/Tail_Joint_4
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Tail_Joint_1/Tail_Joint_2/Tail_Joint_3/Tail_Joint_4/Tail_Tip
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/TAIL_BASE_CTRL
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/TAIL_BASE_CTRL/Tail_Base_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/TAIL_BASE_CTRL/TAIL_MIDDLE_CTRL
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/TAIL_BASE_CTRL/TAIL_MIDDLE_CTRL/Tail_Middle_IK
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/TAIL_BASE_CTRL/TAIL_MIDDLE_CTRL/TAIL_TIP_CTRL
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/TAIL_BASE_CTRL/TAIL_MIDDLE_CTRL/TAIL_TIP_CTRL/Tail_Tip_IK
+        weight: 1
+      - path: polySurface2
+        weight: 1
+      - path: polySurface2/polySurface6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sleeping
+      takeName: Take 001
+      firstFrame: 25
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body_CTRL
+        weight: 1
+      - path: Body_CTRL/L_B_LEG_CTRL
+        weight: 1
+      - path: Body_CTRL/L_B_LEG_CTRL/L_Back_Leg_IK
+        weight: 1
+      - path: Body_CTRL/L_B_LEG_CTRL/nurbsCircle4
+        weight: 1
+      - path: Body_CTRL/L_F_LEG_CTRL
+        weight: 1
+      - path: Body_CTRL/L_F_LEG_CTRL/L_Front_Leg_IK
+        weight: 1
+      - path: Body_CTRL/L_F_LEG_CTRL/nurbsCircle1
+        weight: 1
+      - path: Body_CTRL/R_B_LEG_CTRL
+        weight: 1
+      - path: Body_CTRL/R_B_LEG_CTRL/R_B_LEG_IK
+        weight: 1
+      - path: Body_CTRL/R_B_LEG_CTRL/R_B_VECTOR
+        weight: 1
+      - path: Body_CTRL/R_F_LEG_CTRL
+        weight: 1
+      - path: Body_CTRL/R_F_LEG_CTRL/nurbsCircle3
+        weight: 1
+      - path: Body_CTRL/R_F_LEG_CTRL/R_Front_Leg_IK
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/NECK_CTRL
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/NECK_CTRL/HEAD_IK
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/L_Back_Clavicle
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/L_Back_Clavicle/L_Back_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/L_Back_Clavicle/L_Back_Joint/L_Back_Knee
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/L_Back_Clavicle/L_Back_Joint/L_Back_Knee/L_Back_Leg
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/R_Back_Clavicle
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/R_Back_Clavicle/R_B_LEG_JOINT
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/R_Back_Clavicle/R_B_LEG_JOINT/R_B_JOINT
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/R_Back_Clavicle/R_B_LEG_JOINT/R_B_JOINT/R_B_PAW
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Belly_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/L_Front_Clavicle
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/L_Front_Clavicle/L_Front_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/L_Front_Clavicle/L_Front_Joint/L_Front_Knee
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/L_Front_Clavicle/L_Front_Joint/L_Front_Knee/L_Front_Leg
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/R_Front_Clavicle
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/R_Front_Clavicle/R_Front_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/R_Front_Clavicle/R_Front_Joint/R_Front_Knee
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/R_Front_Clavicle/R_Front_Joint/R_Front_Knee/R_Front_Leg
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5/Neck_Base
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5/Neck_Base/Neck_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5/Neck_Base/Neck_Joint/Face_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5/Neck_Base/Neck_Joint/Head_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Tail_Joint_1
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Tail_Joint_1/Tail_Joint_2
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Tail_Joint_1/Tail_Joint_2/Tail_Joint_3
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Tail_Joint_1/Tail_Joint_2/Tail_Joint_3/Tail_Joint_4
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Tail_Joint_1/Tail_Joint_2/Tail_Joint_3/Tail_Joint_4/Tail_Tip
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/TAIL_BASE_CTRL
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/TAIL_BASE_CTRL/Tail_Base_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/TAIL_BASE_CTRL/TAIL_MIDDLE_CTRL
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/TAIL_BASE_CTRL/TAIL_MIDDLE_CTRL/Tail_Middle_IK
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/TAIL_BASE_CTRL/TAIL_MIDDLE_CTRL/TAIL_TIP_CTRL
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/TAIL_BASE_CTRL/TAIL_MIDDLE_CTRL/TAIL_TIP_CTRL/Tail_Tip_IK
+        weight: 1
+      - path: polySurface2
+        weight: 1
+      - path: polySurface2/polySurface6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walking
+      takeName: Take 001
+      firstFrame: 49
+      lastFrame: 73
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body_CTRL
+        weight: 1
+      - path: Body_CTRL/L_B_LEG_CTRL
+        weight: 1
+      - path: Body_CTRL/L_B_LEG_CTRL/L_Back_Leg_IK
+        weight: 1
+      - path: Body_CTRL/L_B_LEG_CTRL/nurbsCircle4
+        weight: 1
+      - path: Body_CTRL/L_F_LEG_CTRL
+        weight: 1
+      - path: Body_CTRL/L_F_LEG_CTRL/L_Front_Leg_IK
+        weight: 1
+      - path: Body_CTRL/L_F_LEG_CTRL/nurbsCircle1
+        weight: 1
+      - path: Body_CTRL/R_B_LEG_CTRL
+        weight: 1
+      - path: Body_CTRL/R_B_LEG_CTRL/R_B_LEG_IK
+        weight: 1
+      - path: Body_CTRL/R_B_LEG_CTRL/R_B_VECTOR
+        weight: 1
+      - path: Body_CTRL/R_F_LEG_CTRL
+        weight: 1
+      - path: Body_CTRL/R_F_LEG_CTRL/nurbsCircle3
+        weight: 1
+      - path: Body_CTRL/R_F_LEG_CTRL/R_Front_Leg_IK
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/NECK_CTRL
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/NECK_CTRL/HEAD_IK
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/L_Back_Clavicle
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/L_Back_Clavicle/L_Back_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/L_Back_Clavicle/L_Back_Joint/L_Back_Knee
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/L_Back_Clavicle/L_Back_Joint/L_Back_Knee/L_Back_Leg
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/R_Back_Clavicle
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/R_Back_Clavicle/R_B_LEG_JOINT
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/R_Back_Clavicle/R_B_LEG_JOINT/R_B_JOINT
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/R_Back_Clavicle/R_B_LEG_JOINT/R_B_JOINT/R_B_PAW
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Belly_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/L_Front_Clavicle
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/L_Front_Clavicle/L_Front_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/L_Front_Clavicle/L_Front_Joint/L_Front_Knee
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/L_Front_Clavicle/L_Front_Joint/L_Front_Knee/L_Front_Leg
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/R_Front_Clavicle
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/R_Front_Clavicle/R_Front_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/R_Front_Clavicle/R_Front_Joint/R_Front_Knee
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/R_Front_Clavicle/R_Front_Joint/R_Front_Knee/R_Front_Leg
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5/Neck_Base
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5/Neck_Base/Neck_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5/Neck_Base/Neck_Joint/Face_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5/Neck_Base/Neck_Joint/Head_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Tail_Joint_1
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Tail_Joint_1/Tail_Joint_2
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Tail_Joint_1/Tail_Joint_2/Tail_Joint_3
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Tail_Joint_1/Tail_Joint_2/Tail_Joint_3/Tail_Joint_4
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/Root_Joint/Tail_Joint_1/Tail_Joint_2/Tail_Joint_3/Tail_Joint_4/Tail_Tip
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/TAIL_BASE_CTRL
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/TAIL_BASE_CTRL/Tail_Base_Joint
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/TAIL_BASE_CTRL/TAIL_MIDDLE_CTRL
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/TAIL_BASE_CTRL/TAIL_MIDDLE_CTRL/Tail_Middle_IK
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/TAIL_BASE_CTRL/TAIL_MIDDLE_CTRL/TAIL_TIP_CTRL
+        weight: 1
+      - path: Body_CTRL/ROOT_CTRL/TAIL_BASE_CTRL/TAIL_MIDDLE_CTRL/TAIL_TIP_CTRL/Tail_Tip_IK
+        weight: 1
+      - path: polySurface2
+        weight: 1
+      - path: polySurface2/polySurface6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
