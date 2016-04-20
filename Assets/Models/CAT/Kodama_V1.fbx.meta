@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: f6fc8400b3b996f41a7e5336a0542b65
+timeCreated: 1461177306
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base_Joint
+    100002: Body
+    100004: Body_1_IK
+    100006: BODY_CTRL
+    100008: Face
+    100010: FullBody_CTRL
+    100012: HEAD_CTRL
+    100014: Head_IK
+    100016: Head_Joint
+    100018: //RootNode
+    100020: ROOT_CTRL
+    100022: Root_IK
+    100024: Spine_1
+    100026: Spine_2
+    100028: transform1
+    400000: Base_Joint
+    400002: Body
+    400004: Body_1_IK
+    400006: BODY_CTRL
+    400008: Face
+    400010: FullBody_CTRL
+    400012: HEAD_CTRL
+    400014: Head_IK
+    400016: Head_Joint
+    400018: //RootNode
+    400020: ROOT_CTRL
+    400022: Root_IK
+    400024: Spine_1
+    400026: Spine_2
+    400028: transform1
+    4300000: Face
+    4300002: Body
+    7400000: No
+    7400002: Sad
+    7400004: Happy
+    7400006: Yes
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Body
+    13700002: Face
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: No
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: BODY_CTRL
+        weight: 1
+      - path: BODY_CTRL/Body_1_IK
+        weight: 1
+      - path: Face
+        weight: 1
+      - path: FullBody_CTRL
+        weight: 1
+      - path: FullBody_CTRL/transform1
+        weight: 1
+      - path: FullBody_CTRL/transform1/Head_Joint
+        weight: 1
+      - path: FullBody_CTRL/transform1/Head_Joint/Spine_1
+        weight: 1
+      - path: FullBody_CTRL/transform1/Head_Joint/Spine_1/Spine_2
+        weight: 1
+      - path: FullBody_CTRL/transform1/Head_Joint/Spine_1/Spine_2/Base_Joint
+        weight: 1
+      - path: HEAD_CTRL
+        weight: 1
+      - path: HEAD_CTRL/Head_IK
+        weight: 1
+      - path: ROOT_CTRL
+        weight: 1
+      - path: ROOT_CTRL/Root_IK
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sad
+      takeName: Take 001
+      firstFrame: 31
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: BODY_CTRL
+        weight: 1
+      - path: BODY_CTRL/Body_1_IK
+        weight: 1
+      - path: Face
+        weight: 1
+      - path: FullBody_CTRL
+        weight: 1
+      - path: FullBody_CTRL/transform1
+        weight: 1
+      - path: FullBody_CTRL/transform1/Head_Joint
+        weight: 1
+      - path: FullBody_CTRL/transform1/Head_Joint/Spine_1
+        weight: 1
+      - path: FullBody_CTRL/transform1/Head_Joint/Spine_1/Spine_2
+        weight: 1
+      - path: FullBody_CTRL/transform1/Head_Joint/Spine_1/Spine_2/Base_Joint
+        weight: 1
+      - path: HEAD_CTRL
+        weight: 1
+      - path: HEAD_CTRL/Head_IK
+        weight: 1
+      - path: ROOT_CTRL
+        weight: 1
+      - path: ROOT_CTRL/Root_IK
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Happy
+      takeName: Take 001
+      firstFrame: 61
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: BODY_CTRL
+        weight: 1
+      - path: BODY_CTRL/Body_1_IK
+        weight: 1
+      - path: Face
+        weight: 1
+      - path: FullBody_CTRL
+        weight: 1
+      - path: FullBody_CTRL/transform1
+        weight: 1
+      - path: FullBody_CTRL/transform1/Head_Joint
+        weight: 1
+      - path: FullBody_CTRL/transform1/Head_Joint/Spine_1
+        weight: 1
+      - path: FullBody_CTRL/transform1/Head_Joint/Spine_1/Spine_2
+        weight: 1
+      - path: FullBody_CTRL/transform1/Head_Joint/Spine_1/Spine_2/Base_Joint
+        weight: 1
+      - path: HEAD_CTRL
+        weight: 1
+      - path: HEAD_CTRL/Head_IK
+        weight: 1
+      - path: ROOT_CTRL
+        weight: 1
+      - path: ROOT_CTRL/Root_IK
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Yes
+      takeName: Take 001
+      firstFrame: 91
+      lastFrame: 124
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: BODY_CTRL
+        weight: 1
+      - path: BODY_CTRL/Body_1_IK
+        weight: 1
+      - path: Face
+        weight: 1
+      - path: FullBody_CTRL
+        weight: 1
+      - path: FullBody_CTRL/transform1
+        weight: 1
+      - path: FullBody_CTRL/transform1/Head_Joint
+        weight: 1
+      - path: FullBody_CTRL/transform1/Head_Joint/Spine_1
+        weight: 1
+      - path: FullBody_CTRL/transform1/Head_Joint/Spine_1/Spine_2
+        weight: 1
+      - path: FullBody_CTRL/transform1/Head_Joint/Spine_1/Spine_2/Base_Joint
+        weight: 1
+      - path: HEAD_CTRL
+        weight: 1
+      - path: HEAD_CTRL/Head_IK
+        weight: 1
+      - path: ROOT_CTRL
+        weight: 1
+      - path: ROOT_CTRL/Root_IK
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
