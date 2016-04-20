@@ -1,0 +1,1705 @@
+fileFormatVersion: 2
+guid: 3f891876950e84f46b7ed82f1ccd4a11
+timeCreated: 1461170310
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wakie1spritesheet_0
+    21300002: wakie1spritesheet_1
+    21300004: wakie1spritesheet_2
+    21300006: wakie1spritesheet_3
+    21300008: wakie1spritesheet_4
+    21300010: wakie1spritesheet_5
+    21300012: wakie1spritesheet_6
+    21300014: wakie1spritesheet_7
+    21300016: wakie1spritesheet_8
+    21300018: wakie1spritesheet_9
+    21300020: wakie1spritesheet_10
+    21300022: wakie1spritesheet_11
+    21300024: wakie1spritesheet_12
+    21300026: wakie1spritesheet_13
+    21300028: wakie1spritesheet_14
+    21300030: wakie1spritesheet_15
+    21300032: wakie1spritesheet_16
+    21300034: wakie1spritesheet_17
+    21300036: wakie1spritesheet_18
+    21300038: wakie1spritesheet_19
+    21300040: wakie1spritesheet_20
+    21300042: wakie1spritesheet_21
+    21300044: wakie1spritesheet_22
+    21300046: wakie1spritesheet_23
+    21300048: wakie1spritesheet_24
+    21300050: wakie1spritesheet_25
+    21300052: wakie1spritesheet_26
+    21300054: wakie1spritesheet_27
+    21300056: wakie1spritesheet_28
+    21300058: wakie1spritesheet_29
+    21300060: wakie1spritesheet_30
+    21300062: wakie1spritesheet_31
+    21300064: wakie1spritesheet_32
+    21300066: wakie1spritesheet_33
+    21300068: wakie1spritesheet_34
+    21300070: wakie1spritesheet_35
+    21300072: wakie1spritesheet_36
+    21300074: wakie1spritesheet_37
+    21300076: wakie1spritesheet_38
+    21300078: wakie1spritesheet_39
+    21300080: wakie1spritesheet_40
+    21300082: wakie1spritesheet_41
+    21300084: wakie1spritesheet_42
+    21300086: wakie1spritesheet_43
+    21300088: wakie1spritesheet_44
+    21300090: wakie1spritesheet_45
+    21300092: wakie1spritesheet_46
+    21300094: wakie1spritesheet_47
+    21300096: wakie1spritesheet_48
+    21300098: wakie1spritesheet_49
+    21300100: wakie1spritesheet_50
+    21300102: wakie1spritesheet_51
+    21300104: wakie1spritesheet_52
+    21300106: wakie1spritesheet_53
+    21300108: wakie1spritesheet_54
+    21300110: wakie1spritesheet_55
+    21300112: wakie1spritesheet_56
+    21300114: wakie1spritesheet_57
+    21300116: wakie1spritesheet_58
+    21300118: wakie1spritesheet_59
+    21300120: wakie1spritesheet_60
+    21300122: wakie1spritesheet_61
+    21300124: wakie1spritesheet_62
+    21300126: wakie1spritesheet_63
+    21300128: wakie1spritesheet_64
+    21300130: wakie1spritesheet_65
+    21300132: wakie1spritesheet_66
+    21300134: wakie1spritesheet_67
+    21300136: wakie1spritesheet_68
+    21300138: wakie1spritesheet_69
+    21300140: wakie1spritesheet_70
+    21300142: wakie1spritesheet_71
+    21300144: wakie1spritesheet_72
+    21300146: wakie1spritesheet_73
+    21300148: wakie1spritesheet_74
+    21300150: wakie1spritesheet_75
+    21300152: wakie1spritesheet_76
+    21300154: wakie1spritesheet_77
+    21300156: wakie1spritesheet_78
+    21300158: wakie1spritesheet_79
+    21300160: wakie1spritesheet_80
+    21300162: wakie1spritesheet_81
+    21300164: wakie1spritesheet_82
+    21300166: wakie1spritesheet_83
+    21300168: wakie1spritesheet_84
+    21300170: wakie1spritesheet_85
+    21300172: wakie1spritesheet_86
+    21300174: wakie1spritesheet_87
+    21300176: wakie1spritesheet_88
+    21300178: wakie1spritesheet_89
+    21300180: wakie1spritesheet_90
+    21300182: wakie1spritesheet_91
+    21300184: wakie1spritesheet_92
+    21300186: wakie1spritesheet_93
+    21300188: wakie1spritesheet_94
+    21300190: wakie1spritesheet_95
+    21300192: wakie1spritesheet_96
+    21300194: wakie1spritesheet_97
+    21300196: wakie1spritesheet_98
+    21300198: wakie1spritesheet_99
+    21300200: wakie1spritesheet_100
+    21300202: wakie1spritesheet_101
+    21300204: wakie1spritesheet_102
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: wakie1spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2693
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89108, y: 86.45349}
+        - {x: -99.89108, y: -85.54651}
+        - {x: 101.10892, y: -85.54651}
+        - {x: 101.10892, y: 86.45349}
+    - name: wakie1spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2693
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.09108, y: 86.45349}
+        - {x: -100.09108, y: -85.54651}
+        - {x: 100.90892, y: -85.54651}
+        - {x: 100.90892, y: 86.45349}
+    - name: wakie1spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2693
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.79108, y: 86.45349}
+        - {x: -99.79108, y: -85.54651}
+        - {x: 100.20892, y: -85.54651}
+        - {x: 100.20892, y: 86.45349}
+    - name: wakie1spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2693
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 86.45349}
+        - {x: -100.14331, y: -85.54651}
+        - {x: 100.85669, y: -85.54651}
+        - {x: 100.85669, y: 86.45349}
+    - name: wakie1spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2693
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 86.45349}
+        - {x: -99.69104, y: -85.54651}
+        - {x: 101.30896, y: -85.54651}
+        - {x: 101.30896, y: 86.45349}
+    - name: wakie1spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 2693
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89111, y: 86.45349}
+        - {x: -99.89111, y: -85.54651}
+        - {x: 101.10889, y: -85.54651}
+        - {x: 101.10889, y: 86.45349}
+    - name: wakie1spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 2693
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.091064, y: 86.45349}
+        - {x: -100.091064, y: -85.54651}
+        - {x: 100.908936, y: -85.54651}
+        - {x: 100.908936, y: 86.45349}
+    - name: wakie1spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 2693
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.791016, y: 86.45349}
+        - {x: -99.791016, y: -85.54651}
+        - {x: 100.208984, y: -85.54651}
+        - {x: 100.208984, y: 86.45349}
+    - name: wakie1spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 2693
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 86.45349}
+        - {x: -100.14331, y: -85.54651}
+        - {x: 100.85669, y: -85.54651}
+        - {x: 100.85669, y: 86.45349}
+    - name: wakie1spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 2693
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 86.45349}
+        - {x: -99.69104, y: -85.54651}
+        - {x: 101.30896, y: -85.54651}
+        - {x: 101.30896, y: 86.45349}
+    - name: wakie1spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2425
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89108, y: 86.65613}
+        - {x: -99.89108, y: -85.34387}
+        - {x: 101.10892, y: -85.34387}
+        - {x: 101.10892, y: 86.65613}
+    - name: wakie1spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2425
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.09108, y: 86.65613}
+        - {x: -100.09108, y: -85.34387}
+        - {x: 100.90892, y: -85.34387}
+        - {x: 100.90892, y: 86.65613}
+    - name: wakie1spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2425
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.79108, y: 86.65613}
+        - {x: -99.79108, y: -85.34387}
+        - {x: 100.20892, y: -85.34387}
+        - {x: 100.20892, y: 86.65613}
+    - name: wakie1spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2425
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 86.65613}
+        - {x: -100.14331, y: -85.34387}
+        - {x: 100.85669, y: -85.34387}
+        - {x: 100.85669, y: 86.65613}
+    - name: wakie1spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2425
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 86.65613}
+        - {x: -99.69104, y: -85.34387}
+        - {x: 101.30896, y: -85.34387}
+        - {x: 101.30896, y: 86.65613}
+    - name: wakie1spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 2425
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89111, y: 86.65613}
+        - {x: -99.89111, y: -85.34387}
+        - {x: 101.10889, y: -85.34387}
+        - {x: 101.10889, y: 86.65613}
+    - name: wakie1spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 2425
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.091064, y: 86.65613}
+        - {x: -100.091064, y: -85.34387}
+        - {x: 100.908936, y: -85.34387}
+        - {x: 100.908936, y: 86.65613}
+    - name: wakie1spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 2425
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.791016, y: 86.65613}
+        - {x: -99.791016, y: -85.34387}
+        - {x: 100.208984, y: -85.34387}
+        - {x: 100.208984, y: 86.65613}
+    - name: wakie1spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 2425
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 86.65613}
+        - {x: -100.14331, y: -85.34387}
+        - {x: 100.85669, y: -85.34387}
+        - {x: 100.85669, y: 86.65613}
+    - name: wakie1spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 2425
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 86.65613}
+        - {x: -99.69104, y: -85.34387}
+        - {x: 101.30896, y: -85.34387}
+        - {x: 101.30896, y: 86.65613}
+    - name: wakie1spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2156
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89108, y: 85.70642}
+        - {x: -99.89108, y: -85.29358}
+        - {x: 101.10892, y: -85.29358}
+        - {x: 101.10892, y: 85.70642}
+    - name: wakie1spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2156
+        width: 307
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.09108, y: 85.70642}
+        - {x: -100.09108, y: -85.29358}
+        - {x: 100.90892, y: -85.29358}
+        - {x: 100.90892, y: 85.70642}
+    - name: wakie1spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2156
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.79108, y: 85.70642}
+        - {x: -99.79108, y: -85.29358}
+        - {x: 100.20892, y: -85.29358}
+        - {x: 100.20892, y: 85.70642}
+    - name: wakie1spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2156
+        width: 307
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 85.70642}
+        - {x: -100.14331, y: -85.29358}
+        - {x: 100.85669, y: -85.29358}
+        - {x: 100.85669, y: 85.70642}
+    - name: wakie1spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2156
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 85.70642}
+        - {x: -99.69104, y: -85.29358}
+        - {x: 101.30896, y: -85.29358}
+        - {x: 101.30896, y: 85.70642}
+    - name: wakie1spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 2156
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89111, y: 85.70642}
+        - {x: -99.89111, y: -85.29358}
+        - {x: 101.10889, y: -85.29358}
+        - {x: 101.10889, y: 85.70642}
+    - name: wakie1spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 2156
+        width: 307
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.091064, y: 85.70642}
+        - {x: -100.091064, y: -85.29358}
+        - {x: 100.908936, y: -85.29358}
+        - {x: 100.908936, y: 85.70642}
+    - name: wakie1spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 2156
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.791016, y: 85.70642}
+        - {x: -99.791016, y: -85.29358}
+        - {x: 100.208984, y: -85.29358}
+        - {x: 100.208984, y: 85.70642}
+    - name: wakie1spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 2156
+        width: 307
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 85.70642}
+        - {x: -100.14331, y: -85.29358}
+        - {x: 100.85669, y: -85.29358}
+        - {x: 100.85669, y: 85.70642}
+    - name: wakie1spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 2156
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 85.70642}
+        - {x: -99.69104, y: -85.29358}
+        - {x: 101.30896, y: -85.29358}
+        - {x: 101.30896, y: 85.70642}
+    - name: wakie1spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1887
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89108, y: 86.756714}
+        - {x: -99.89108, y: -85.243286}
+        - {x: 101.10892, y: -85.243286}
+        - {x: 101.10892, y: 86.756714}
+    - name: wakie1spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1887
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.09108, y: 86.756714}
+        - {x: -100.09108, y: -85.243286}
+        - {x: 100.90892, y: -85.243286}
+        - {x: 100.90892, y: 86.756714}
+    - name: wakie1spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1887
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.79108, y: 86.756714}
+        - {x: -99.79108, y: -85.243286}
+        - {x: 100.20892, y: -85.243286}
+        - {x: 100.20892, y: 86.756714}
+    - name: wakie1spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1887
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 86.756714}
+        - {x: -100.14331, y: -85.243286}
+        - {x: 100.85669, y: -85.243286}
+        - {x: 100.85669, y: 86.756714}
+    - name: wakie1spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1887
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 86.756714}
+        - {x: -99.69104, y: -85.243286}
+        - {x: 101.30896, y: -85.243286}
+        - {x: 101.30896, y: 86.756714}
+    - name: wakie1spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1887
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89111, y: 86.756714}
+        - {x: -99.89111, y: -85.243286}
+        - {x: 101.10889, y: -85.243286}
+        - {x: 101.10889, y: 86.756714}
+    - name: wakie1spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1887
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.091064, y: 86.756714}
+        - {x: -100.091064, y: -85.243286}
+        - {x: 100.908936, y: -85.243286}
+        - {x: 100.908936, y: 86.756714}
+    - name: wakie1spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1887
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.791016, y: 86.756714}
+        - {x: -99.791016, y: -85.243286}
+        - {x: 100.208984, y: -85.243286}
+        - {x: 100.208984, y: 86.756714}
+    - name: wakie1spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 1887
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 86.756714}
+        - {x: -100.14331, y: -85.243286}
+        - {x: 100.85669, y: -85.243286}
+        - {x: 100.85669, y: 86.756714}
+    - name: wakie1spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 1887
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 86.756714}
+        - {x: -99.69104, y: -85.243286}
+        - {x: 101.30896, y: -85.243286}
+        - {x: 101.30896, y: 86.756714}
+    - name: wakie1spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1618
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89108, y: 85.80701}
+        - {x: -99.89108, y: -85.19299}
+        - {x: 101.10892, y: -85.19299}
+        - {x: 101.10892, y: 85.80701}
+    - name: wakie1spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1618
+        width: 307
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.09108, y: 85.80701}
+        - {x: -100.09108, y: -85.19299}
+        - {x: 100.90892, y: -85.19299}
+        - {x: 100.90892, y: 85.80701}
+    - name: wakie1spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1618
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.79108, y: 85.80701}
+        - {x: -99.79108, y: -85.19299}
+        - {x: 100.20892, y: -85.19299}
+        - {x: 100.20892, y: 85.80701}
+    - name: wakie1spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1618
+        width: 307
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 85.80701}
+        - {x: -100.14331, y: -85.19299}
+        - {x: 100.85669, y: -85.19299}
+        - {x: 100.85669, y: 85.80701}
+    - name: wakie1spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1618
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 85.80701}
+        - {x: -99.69104, y: -85.19299}
+        - {x: 101.30896, y: -85.19299}
+        - {x: 101.30896, y: 85.80701}
+    - name: wakie1spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1618
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89111, y: 85.80701}
+        - {x: -99.89111, y: -85.19299}
+        - {x: 101.10889, y: -85.19299}
+        - {x: 101.10889, y: 85.80701}
+    - name: wakie1spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1618
+        width: 307
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.091064, y: 85.80701}
+        - {x: -100.091064, y: -85.19299}
+        - {x: 100.908936, y: -85.19299}
+        - {x: 100.908936, y: 85.80701}
+    - name: wakie1spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1618
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.791016, y: 85.80701}
+        - {x: -99.791016, y: -85.19299}
+        - {x: 100.208984, y: -85.19299}
+        - {x: 100.208984, y: 85.80701}
+    - name: wakie1spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 1618
+        width: 307
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 85.80701}
+        - {x: -100.14331, y: -85.19299}
+        - {x: 100.85669, y: -85.19299}
+        - {x: 100.85669, y: 85.80701}
+    - name: wakie1spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 1618
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 85.80701}
+        - {x: -99.69104, y: -85.19299}
+        - {x: 101.30896, y: -85.19299}
+        - {x: 101.30896, y: 85.80701}
+    - name: wakie1spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1348
+        width: 306
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89108, y: 86.20508}
+        - {x: -99.89108, y: -85.79492}
+        - {x: 101.10892, y: -85.79492}
+        - {x: 101.10892, y: 86.20508}
+    - name: wakie1spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1348
+        width: 307
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.09108, y: 86.20508}
+        - {x: -100.09108, y: -85.79492}
+        - {x: 100.90892, y: -85.79492}
+        - {x: 100.90892, y: 86.20508}
+    - name: wakie1spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1348
+        width: 306
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.79108, y: 86.20508}
+        - {x: -99.79108, y: -85.79492}
+        - {x: 100.20892, y: -85.79492}
+        - {x: 100.20892, y: 86.20508}
+    - name: wakie1spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1348
+        width: 307
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 86.20508}
+        - {x: -100.14331, y: -85.79492}
+        - {x: 100.85669, y: -85.79492}
+        - {x: 100.85669, y: 86.20508}
+    - name: wakie1spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1348
+        width: 306
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 86.20508}
+        - {x: -99.69104, y: -85.79492}
+        - {x: 101.30896, y: -85.79492}
+        - {x: 101.30896, y: 86.20508}
+    - name: wakie1spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1348
+        width: 306
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89111, y: 86.20508}
+        - {x: -99.89111, y: -85.79492}
+        - {x: 101.10889, y: -85.79492}
+        - {x: 101.10889, y: 86.20508}
+    - name: wakie1spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1348
+        width: 307
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.091064, y: 86.20508}
+        - {x: -100.091064, y: -85.79492}
+        - {x: 100.908936, y: -85.79492}
+        - {x: 100.908936, y: 86.20508}
+    - name: wakie1spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1348
+        width: 306
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.791016, y: 86.20508}
+        - {x: -99.791016, y: -85.79492}
+        - {x: 100.208984, y: -85.79492}
+        - {x: 100.208984, y: 86.20508}
+    - name: wakie1spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 1348
+        width: 307
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 86.20508}
+        - {x: -100.14331, y: -85.79492}
+        - {x: 100.85669, y: -85.79492}
+        - {x: 100.85669, y: 86.20508}
+    - name: wakie1spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 1348
+        width: 306
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 86.20508}
+        - {x: -99.69104, y: -85.79492}
+        - {x: 101.30896, y: -85.79492}
+        - {x: 101.30896, y: 86.20508}
+    - name: wakie1spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1080
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89108, y: 85.90765}
+        - {x: -99.89108, y: -85.09235}
+        - {x: 101.10892, y: -85.09235}
+        - {x: 101.10892, y: 85.90765}
+    - name: wakie1spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1080
+        width: 307
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.09108, y: 85.90765}
+        - {x: -100.09108, y: -85.09235}
+        - {x: 100.90892, y: -85.09235}
+        - {x: 100.90892, y: 85.90765}
+    - name: wakie1spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1080
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.79108, y: 85.90765}
+        - {x: -99.79108, y: -85.09235}
+        - {x: 100.20892, y: -85.09235}
+        - {x: 100.20892, y: 85.90765}
+    - name: wakie1spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1080
+        width: 307
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 85.90765}
+        - {x: -100.14331, y: -85.09235}
+        - {x: 100.85669, y: -85.09235}
+        - {x: 100.85669, y: 85.90765}
+    - name: wakie1spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1080
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 85.90765}
+        - {x: -99.69104, y: -85.09235}
+        - {x: 101.30896, y: -85.09235}
+        - {x: 101.30896, y: 85.90765}
+    - name: wakie1spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1080
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89111, y: 85.90765}
+        - {x: -99.89111, y: -85.09235}
+        - {x: 101.10889, y: -85.09235}
+        - {x: 101.10889, y: 85.90765}
+    - name: wakie1spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1080
+        width: 307
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.091064, y: 85.90765}
+        - {x: -100.091064, y: -85.09235}
+        - {x: 100.908936, y: -85.09235}
+        - {x: 100.908936, y: 85.90765}
+    - name: wakie1spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1080
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.791016, y: 85.90765}
+        - {x: -99.791016, y: -85.09235}
+        - {x: 100.208984, y: -85.09235}
+        - {x: 100.208984, y: 85.90765}
+    - name: wakie1spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 1080
+        width: 307
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 85.90765}
+        - {x: -100.14331, y: -85.09235}
+        - {x: 100.85669, y: -85.09235}
+        - {x: 100.85669, y: 85.90765}
+    - name: wakie1spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 1080
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 85.90765}
+        - {x: -99.69104, y: -85.09235}
+        - {x: 101.30896, y: -85.09235}
+        - {x: 101.30896, y: 85.90765}
+    - name: wakie1spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 810
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89108, y: 86.305725}
+        - {x: -99.89108, y: -85.694275}
+        - {x: 101.10892, y: -85.694275}
+        - {x: 101.10892, y: 86.305725}
+    - name: wakie1spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 810
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.09108, y: 86.305725}
+        - {x: -100.09108, y: -85.694275}
+        - {x: 100.90892, y: -85.694275}
+        - {x: 100.90892, y: 86.305725}
+    - name: wakie1spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 810
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.79108, y: 86.305725}
+        - {x: -99.79108, y: -85.694275}
+        - {x: 100.20892, y: -85.694275}
+        - {x: 100.20892, y: 86.305725}
+    - name: wakie1spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 810
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 86.305725}
+        - {x: -100.14331, y: -85.694275}
+        - {x: 100.85669, y: -85.694275}
+        - {x: 100.85669, y: 86.305725}
+    - name: wakie1spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 810
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 86.305725}
+        - {x: -99.69104, y: -85.694275}
+        - {x: 101.30896, y: -85.694275}
+        - {x: 101.30896, y: 86.305725}
+    - name: wakie1spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 810
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89111, y: 86.305725}
+        - {x: -99.89111, y: -85.694275}
+        - {x: 101.10889, y: -85.694275}
+        - {x: 101.10889, y: 86.305725}
+    - name: wakie1spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 810
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.091064, y: 86.305725}
+        - {x: -100.091064, y: -85.694275}
+        - {x: 100.908936, y: -85.694275}
+        - {x: 100.908936, y: 86.305725}
+    - name: wakie1spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 810
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.791016, y: 86.305725}
+        - {x: -99.791016, y: -85.694275}
+        - {x: 100.208984, y: -85.694275}
+        - {x: 100.208984, y: 86.305725}
+    - name: wakie1spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 810
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 86.305725}
+        - {x: -100.14331, y: -85.694275}
+        - {x: 100.85669, y: -85.694275}
+        - {x: 100.85669, y: 86.305725}
+    - name: wakie1spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 810
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 86.305725}
+        - {x: -99.69104, y: -85.694275}
+        - {x: 101.30896, y: -85.694275}
+        - {x: 101.30896, y: 86.305725}
+    - name: wakie1spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 542
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89108, y: 86.0083}
+        - {x: -99.89108, y: -84.9917}
+        - {x: 101.10892, y: -84.9917}
+        - {x: 101.10892, y: 86.0083}
+    - name: wakie1spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 542
+        width: 307
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.09108, y: 86.0083}
+        - {x: -100.09108, y: -84.9917}
+        - {x: 100.90892, y: -84.9917}
+        - {x: 100.90892, y: 86.0083}
+    - name: wakie1spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 542
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.79108, y: 86.0083}
+        - {x: -99.79108, y: -84.9917}
+        - {x: 100.20892, y: -84.9917}
+        - {x: 100.20892, y: 86.0083}
+    - name: wakie1spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 542
+        width: 307
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 86.0083}
+        - {x: -100.14331, y: -84.9917}
+        - {x: 100.85669, y: -84.9917}
+        - {x: 100.85669, y: 86.0083}
+    - name: wakie1spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 542
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 86.0083}
+        - {x: -99.69104, y: -84.9917}
+        - {x: 101.30896, y: -84.9917}
+        - {x: 101.30896, y: 86.0083}
+    - name: wakie1spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 542
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89111, y: 86.0083}
+        - {x: -99.89111, y: -84.9917}
+        - {x: 101.10889, y: -84.9917}
+        - {x: 101.10889, y: 86.0083}
+    - name: wakie1spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 542
+        width: 307
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.091064, y: 86.0083}
+        - {x: -100.091064, y: -84.9917}
+        - {x: 100.908936, y: -84.9917}
+        - {x: 100.908936, y: 86.0083}
+    - name: wakie1spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 542
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.791016, y: 86.0083}
+        - {x: -99.791016, y: -84.9917}
+        - {x: 100.208984, y: -84.9917}
+        - {x: 100.208984, y: 86.0083}
+    - name: wakie1spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 542
+        width: 307
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 86.0083}
+        - {x: -100.14331, y: -84.9917}
+        - {x: 100.85669, y: -84.9917}
+        - {x: 100.85669, y: 86.0083}
+    - name: wakie1spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 542
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 86.0083}
+        - {x: -99.69104, y: -84.9917}
+        - {x: 101.30896, y: -84.9917}
+        - {x: 101.30896, y: 86.0083}
+    - name: wakie1spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 272
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89108, y: 86.40637}
+        - {x: -99.89108, y: -85.59363}
+        - {x: 101.10892, y: -85.59363}
+        - {x: 101.10892, y: 86.40637}
+    - name: wakie1spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 272
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.09108, y: 86.40637}
+        - {x: -100.09108, y: -85.59363}
+        - {x: 100.90892, y: -85.59363}
+        - {x: 100.90892, y: 86.40637}
+    - name: wakie1spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 272
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.79108, y: 86.40637}
+        - {x: -99.79108, y: -85.59363}
+        - {x: 100.20892, y: -85.59363}
+        - {x: 100.20892, y: 86.40637}
+    - name: wakie1spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 272
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 86.40637}
+        - {x: -100.14331, y: -85.59363}
+        - {x: 100.85669, y: -85.59363}
+        - {x: 100.85669, y: 86.40637}
+    - name: wakie1spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 272
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 86.40637}
+        - {x: -99.69104, y: -85.59363}
+        - {x: 101.30896, y: -85.59363}
+        - {x: 101.30896, y: 86.40637}
+    - name: wakie1spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 272
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89111, y: 86.40637}
+        - {x: -99.89111, y: -85.59363}
+        - {x: 101.10889, y: -85.59363}
+        - {x: 101.10889, y: 86.40637}
+    - name: wakie1spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 272
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.091064, y: 86.40637}
+        - {x: -100.091064, y: -85.59363}
+        - {x: 100.908936, y: -85.59363}
+        - {x: 100.908936, y: 86.40637}
+    - name: wakie1spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 272
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.791016, y: 86.40637}
+        - {x: -99.791016, y: -85.59363}
+        - {x: 100.208984, y: -85.59363}
+        - {x: 100.208984, y: 86.40637}
+    - name: wakie1spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 272
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.14331, y: 86.40637}
+        - {x: -100.14331, y: -85.59363}
+        - {x: 100.85669, y: -85.59363}
+        - {x: 100.85669, y: 86.40637}
+    - name: wakie1spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 272
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.69104, y: 86.40637}
+        - {x: -99.69104, y: -85.59363}
+        - {x: 101.30896, y: -85.59363}
+        - {x: 101.30896, y: 86.40637}
+    - name: wakie1spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.89108, y: 86.60892}
+        - {x: -99.89108, y: -85.39108}
+        - {x: 101.10892, y: -85.39108}
+        - {x: 101.10892, y: 86.60892}
+    - name: wakie1spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 4
+        width: 307
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.09108, y: 86.60892}
+        - {x: -100.09108, y: -85.39108}
+        - {x: 100.90892, y: -85.39108}
+        - {x: 100.90892, y: 86.60892}
+    - name: wakie1spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 4
+        width: 306
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.79108, y: 86.60892}
+        - {x: -99.79108, y: -85.39108}
+        - {x: 100.20892, y: -85.39108}
+        - {x: 100.20892, y: 86.60892}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

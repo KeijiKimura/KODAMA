@@ -13,7 +13,7 @@ public class MouseRay : MonoBehaviour {
     // Update is called once per frame
     void Update() {
 
-        Cursor.visible = false;
+       Cursor.visible = false;
 
         Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
         RaycastHit rayHitInfo = new RaycastHit();

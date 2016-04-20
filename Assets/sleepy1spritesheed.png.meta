@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 5eef7669949eb2a4597462ddb5ad743b
+timeCreated: 1461170108
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sleepy1spritesheed_0
+    21300002: sleepy1spritesheed_1
+    21300004: sleepy1spritesheed_2
+    21300006: sleepy1spritesheed_3
+    21300008: sleepy1spritesheed_4
+    21300010: sleepy1spritesheed_5
+    21300012: sleepy1spritesheed_6
+    21300014: sleepy1spritesheed_7
+    21300016: sleepy1spritesheed_8
+    21300018: sleepy1spritesheed_9
+    21300020: sleepy1spritesheed_10
+    21300022: sleepy1spritesheed_11
+    21300024: sleepy1spritesheed_12
+    21300026: sleepy1spritesheed_13
+    21300028: sleepy1spritesheed_14
+    21300030: sleepy1spritesheed_15
+    21300032: sleepy1spritesheed_16
+    21300034: sleepy1spritesheed_17
+    21300036: sleepy1spritesheed_18
+    21300038: sleepy1spritesheed_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sleepy1spritesheed_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 182
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35.5}
+        - {x: -35, y: -26.5}
+        - {x: -33, y: -35.5}
+        - {x: 19, y: -35.5}
+        - {x: 35, y: -24.5}
+        - {x: 35, y: 28.5}
+        - {x: 23, y: 35.5}
+    - name: sleepy1spritesheed_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 181
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 35.5}
+        - {x: -36, y: 24.5}
+        - {x: -36, y: -19.5}
+        - {x: -21, y: -35.5}
+        - {x: 21, y: -35.5}
+        - {x: 36, y: -20.5}
+        - {x: 36, y: 32.5}
+        - {x: 24, y: 35.5}
+    - name: sleepy1spritesheed_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 178
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 38}
+        - {x: -37, y: 37}
+        - {x: -37, y: -35}
+        - {x: -21, y: -38}
+        - {x: 22, y: -38}
+        - {x: 37, y: -28}
+        - {x: 37, y: 32}
+        - {x: 23, y: 38}
+    - name: sleepy1spritesheed_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 180
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 19}
+        - {x: -36, y: -17}
+        - {x: -35, y: -24}
+        - {x: -24, y: -36}
+        - {x: 25, y: -36}
+        - {x: 36, y: -33}
+        - {x: 36, y: 23}
+        - {x: 18, y: 36}
+        - {x: -24, y: 36}
+    - name: sleepy1spritesheed_4
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 182
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 35.5}
+        - {x: -35.5, y: 32.5}
+        - {x: -35.5, y: -27.5}
+        - {x: -21.5, y: -35.5}
+        - {x: 30.5, y: -35.5}
+        - {x: 35.5, y: -21.5}
+        - {x: 35.5, y: 24.5}
+        - {x: 24.5, y: 35.5}
+    - name: sleepy1spritesheed_5
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 181
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 35.5}
+        - {x: -36, y: 30.5}
+        - {x: -36, y: -29.5}
+        - {x: -25, y: -35.5}
+        - {x: 22, y: -35.5}
+        - {x: 30, y: -33.5}
+        - {x: 36, y: -26.5}
+        - {x: 36, y: 22.5}
+        - {x: 31, y: 35.5}
+    - name: sleepy1spritesheed_6
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 182
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 35.5}
+        - {x: -36, y: 28.5}
+        - {x: -36, y: -22.5}
+        - {x: -29, y: -35.5}
+        - {x: 36, y: -35.5}
+        - {x: 36, y: 35.5}
+    - name: sleepy1spritesheed_7
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 182
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 35.5}
+        - {x: -35.5, y: 27.5}
+        - {x: -35.5, y: -26.5}
+        - {x: -18.5, y: -35.5}
+        - {x: 21.5, y: -35.5}
+        - {x: 35.5, y: -24.5}
+        - {x: 35.5, y: 22.5}
+        - {x: 30.5, y: 35.5}
+    - name: sleepy1spritesheed_8
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 182
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 36.5}
+        - {x: -36, y: -24.5}
+        - {x: -26, y: -35.5}
+        - {x: -24, y: -36.5}
+        - {x: 29, y: -36.5}
+        - {x: 36, y: -22.5}
+        - {x: 36, y: 31.5}
+        - {x: 30, y: 36.5}
+    - name: sleepy1spritesheed_9
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 181
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 36.5}
+        - {x: -35.5, y: 24.5}
+        - {x: -36.5, y: 17.5}
+        - {x: -36.5, y: -19.5}
+        - {x: -25.5, y: -36.5}
+        - {x: 22.5, y: -36.5}
+        - {x: 36.5, y: -21.5}
+        - {x: 36.5, y: 31.5}
+        - {x: 22.5, y: 36.5}
+    - name: sleepy1spritesheed_10
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 183
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -33}
+        - {x: -32, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 33}
+        - {x: 28, y: 35}
+    - name: sleepy1spritesheed_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 38
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 36.5}
+        - {x: -36.5, y: 25.5}
+        - {x: -36.5, y: -23.5}
+        - {x: -22.5, y: -36.5}
+        - {x: 30.5, y: -36.5}
+        - {x: 36.5, y: -24.5}
+        - {x: 36.5, y: 36.5}
+    - name: sleepy1spritesheed_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 38
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: -24}
+        - {x: -26, y: -37}
+        - {x: 25, y: -37}
+        - {x: 37, y: -33}
+        - {x: 37, y: 37}
+        - {x: -20, y: 37}
+        - {x: -37, y: 22}
+    - name: sleepy1spritesheed_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 38
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 36.5}
+        - {x: -36.5, y: 25.5}
+        - {x: -36.5, y: -23.5}
+        - {x: -22.5, y: -36.5}
+        - {x: 30.5, y: -36.5}
+        - {x: 36.5, y: -24.5}
+        - {x: 36.5, y: 36.5}
+    - name: sleepy1spritesheed_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 38
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 36.5}
+        - {x: -36.5, y: 25.5}
+        - {x: -36.5, y: -23.5}
+        - {x: -22.5, y: -36.5}
+        - {x: 30.5, y: -36.5}
+        - {x: 36.5, y: -24.5}
+        - {x: 36.5, y: 36.5}
+    - name: sleepy1spritesheed_15
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 39
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 36.5}
+        - {x: -36.5, y: 25.5}
+        - {x: -36.5, y: -23.5}
+        - {x: -22.5, y: -36.5}
+        - {x: 30.5, y: -36.5}
+        - {x: 36.5, y: -24.5}
+        - {x: 36.5, y: 36.5}
+    - name: sleepy1spritesheed_16
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 39
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 36.5}
+        - {x: -36.5, y: 25.5}
+        - {x: -36.5, y: -23.5}
+        - {x: -22.5, y: -36.5}
+        - {x: 30.5, y: -36.5}
+        - {x: 36.5, y: -24.5}
+        - {x: 36.5, y: 36.5}
+    - name: sleepy1spritesheed_17
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 40
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 35.5}
+        - {x: -36, y: 31.5}
+        - {x: -36, y: -21.5}
+        - {x: -20, y: -35.5}
+        - {x: 21, y: -35.5}
+        - {x: 36, y: -24.5}
+        - {x: 36, y: 29.5}
+        - {x: 27, y: 35.5}
+    - name: sleepy1spritesheed_18
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 38
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 36.5}
+        - {x: -35.5, y: 24.5}
+        - {x: -36.5, y: 17.5}
+        - {x: -36.5, y: -19.5}
+        - {x: -25.5, y: -36.5}
+        - {x: 22.5, y: -36.5}
+        - {x: 36.5, y: -21.5}
+        - {x: 36.5, y: 31.5}
+        - {x: 22.5, y: 36.5}
+    - name: sleepy1spritesheed_19
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 38
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 36.5}
+        - {x: -36.5, y: 21.5}
+        - {x: -36.5, y: -21.5}
+        - {x: -35.5, y: -23.5}
+        - {x: -16.5, y: -36.5}
+        - {x: 21.5, y: -36.5}
+        - {x: 36.5, y: -22.5}
+        - {x: 36.5, y: 22.5}
+        - {x: 21.5, y: 36.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
