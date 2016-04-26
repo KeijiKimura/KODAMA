@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: cfc894db325c861419184607aa939869
+timeCreated: 1461631017
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body
+    100004: BODY_CTRL
+    100006: BODY_JOINT
+    100008: Bottom_Mouth_Joint
+    100010: BRANCH_CTRL
+    100012: BRANCH_IK
+    100014: Eyes
+    100016: F_FEET_JOINT
+    100018: F_KNEE_JOINT
+    100020: F_LEG_IK
+    100022: F_LEG_JOINT
+    100024: FRONT_FOOT_CTRL
+    100026: L_FEET_JOINT
+    100028: L_KNEE_JOINT
+    100030: L_LEG_IK
+    100032: L_LEG_JOINT
+    100034: Leaves
+    100036: LEFT_FOOT_CTRL
+    100038: Mouth_Top_Joint
+    100040: R_FEET_JOINT
+    100042: R_KNEE_JOINT
+    100044: R_LEG_IK
+    100046: R_LEG_JOINT
+    100048: RIGHT_FOOT_CTRL
+    100050: ROOT_CTRL
+    100052: ROOT_JOINT
+    100054: SPINE_2_JOINT
+    100056: SPINE_JOINT
+    100058: TIP_JOINT
+    100060: TREE_JOINT
+    400000: //RootNode
+    400002: Body
+    400004: BODY_CTRL
+    400006: BODY_JOINT
+    400008: Bottom_Mouth_Joint
+    400010: BRANCH_CTRL
+    400012: BRANCH_IK
+    400014: Eyes
+    400016: F_FEET_JOINT
+    400018: F_KNEE_JOINT
+    400020: F_LEG_IK
+    400022: F_LEG_JOINT
+    400024: FRONT_FOOT_CTRL
+    400026: L_FEET_JOINT
+    400028: L_KNEE_JOINT
+    400030: L_LEG_IK
+    400032: L_LEG_JOINT
+    400034: Leaves
+    400036: LEFT_FOOT_CTRL
+    400038: Mouth_Top_Joint
+    400040: R_FEET_JOINT
+    400042: R_KNEE_JOINT
+    400044: R_LEG_IK
+    400046: R_LEG_JOINT
+    400048: RIGHT_FOOT_CTRL
+    400050: ROOT_CTRL
+    400052: ROOT_JOINT
+    400054: SPINE_2_JOINT
+    400056: SPINE_JOINT
+    400058: TIP_JOINT
+    400060: TREE_JOINT
+    4300000: Eyes
+    4300002: Leaves
+    4300004: Body
+    7400000: Walking
+    7400002: Happy
+    7400004: Headshake
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Body
+    13700002: Eyes
+    13700004: Leaves
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walking
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: BODY_CTRL
+        weight: 1
+      - path: BODY_CTRL/BRANCH_CTRL
+        weight: 1
+      - path: BODY_CTRL/BRANCH_CTRL/BRANCH_IK
+        weight: 1
+      - path: BODY_CTRL/FRONT_FOOT_CTRL
+        weight: 1
+      - path: BODY_CTRL/FRONT_FOOT_CTRL/F_LEG_IK
+        weight: 1
+      - path: BODY_CTRL/LEFT_FOOT_CTRL
+        weight: 1
+      - path: BODY_CTRL/LEFT_FOOT_CTRL/L_LEG_IK
+        weight: 1
+      - path: BODY_CTRL/RIGHT_FOOT_CTRL
+        weight: 1
+      - path: BODY_CTRL/RIGHT_FOOT_CTRL/R_LEG_IK
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT/Bottom_Mouth_Joint
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT/Mouth_Top_Joint
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT/SPINE_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT/SPINE_JOINT/SPINE_2_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT/SPINE_JOINT/SPINE_2_JOINT/TREE_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT/SPINE_JOINT/SPINE_2_JOINT/TREE_JOINT/TIP_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/F_LEG_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/F_LEG_JOINT/F_KNEE_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/F_LEG_JOINT/F_KNEE_JOINT/F_FEET_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/L_LEG_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/L_LEG_JOINT/L_KNEE_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/L_LEG_JOINT/L_KNEE_JOINT/L_FEET_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/R_LEG_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/R_LEG_JOINT/R_KNEE_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/R_LEG_JOINT/R_KNEE_JOINT/R_FEET_JOINT
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Leaves
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Happy
+      takeName: Take 001
+      firstFrame: 25
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: BODY_CTRL
+        weight: 1
+      - path: BODY_CTRL/BRANCH_CTRL
+        weight: 1
+      - path: BODY_CTRL/BRANCH_CTRL/BRANCH_IK
+        weight: 1
+      - path: BODY_CTRL/FRONT_FOOT_CTRL
+        weight: 1
+      - path: BODY_CTRL/FRONT_FOOT_CTRL/F_LEG_IK
+        weight: 1
+      - path: BODY_CTRL/LEFT_FOOT_CTRL
+        weight: 1
+      - path: BODY_CTRL/LEFT_FOOT_CTRL/L_LEG_IK
+        weight: 1
+      - path: BODY_CTRL/RIGHT_FOOT_CTRL
+        weight: 1
+      - path: BODY_CTRL/RIGHT_FOOT_CTRL/R_LEG_IK
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT/Bottom_Mouth_Joint
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT/Mouth_Top_Joint
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT/SPINE_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT/SPINE_JOINT/SPINE_2_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT/SPINE_JOINT/SPINE_2_JOINT/TREE_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT/SPINE_JOINT/SPINE_2_JOINT/TREE_JOINT/TIP_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/F_LEG_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/F_LEG_JOINT/F_KNEE_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/F_LEG_JOINT/F_KNEE_JOINT/F_FEET_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/L_LEG_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/L_LEG_JOINT/L_KNEE_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/L_LEG_JOINT/L_KNEE_JOINT/L_FEET_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/R_LEG_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/R_LEG_JOINT/R_KNEE_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/R_LEG_JOINT/R_KNEE_JOINT/R_FEET_JOINT
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Leaves
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Headshake
+      takeName: Take 001
+      firstFrame: 49
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: BODY_CTRL
+        weight: 1
+      - path: BODY_CTRL/BRANCH_CTRL
+        weight: 1
+      - path: BODY_CTRL/BRANCH_CTRL/BRANCH_IK
+        weight: 1
+      - path: BODY_CTRL/FRONT_FOOT_CTRL
+        weight: 1
+      - path: BODY_CTRL/FRONT_FOOT_CTRL/F_LEG_IK
+        weight: 1
+      - path: BODY_CTRL/LEFT_FOOT_CTRL
+        weight: 1
+      - path: BODY_CTRL/LEFT_FOOT_CTRL/L_LEG_IK
+        weight: 1
+      - path: BODY_CTRL/RIGHT_FOOT_CTRL
+        weight: 1
+      - path: BODY_CTRL/RIGHT_FOOT_CTRL/R_LEG_IK
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT/Bottom_Mouth_Joint
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT/Mouth_Top_Joint
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT/SPINE_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT/SPINE_JOINT/SPINE_2_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT/SPINE_JOINT/SPINE_2_JOINT/TREE_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/BODY_JOINT/SPINE_JOINT/SPINE_2_JOINT/TREE_JOINT/TIP_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/F_LEG_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/F_LEG_JOINT/F_KNEE_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/F_LEG_JOINT/F_KNEE_JOINT/F_FEET_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/L_LEG_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/L_LEG_JOINT/L_KNEE_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/L_LEG_JOINT/L_KNEE_JOINT/L_FEET_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/R_LEG_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/R_LEG_JOINT/R_KNEE_JOINT
+        weight: 1
+      - path: BODY_CTRL/ROOT_CTRL/ROOT_JOINT/R_LEG_JOINT/R_KNEE_JOINT/R_FEET_JOINT
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Leaves
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
